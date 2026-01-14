@@ -9,8 +9,8 @@ void tambah()
 // method kurang
 void kurang()
 {
-    c = a + b;
-    Console.WriteLine($"{a} + {b} = {c}");
+    c = a - b;
+    Console.WriteLine($"{a} - {b} = {c}");
 }
 //method kali
 void kali()
